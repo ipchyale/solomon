@@ -6,3 +6,10 @@ src/assets/json/img
 utils/__pycache__
 utils/.ipynb_checkpoints
 utils/*.ipynb
+.yarn/*
+!.yarn/patches
+!.yarn/releases
+!.yarn/plugins
+!.yarn/sdks
+!.yarn/versions
+.pnp.*
